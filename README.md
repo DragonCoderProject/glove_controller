@@ -45,13 +45,10 @@ the controller. For the software most important change will be in the
 algorithms. They will be 2 algorithms which should reduce the disruption
 and care abouth better communication and data.
 
-photos
+Photos
 ======
 
-![1] (https://imgur.com/6Tf84VN)
-
-![2] (https://imgur.com/1h2z6tJ)
-
-![3] (https://imgur.com/1h2z6tJ)
-
-![4] (https://imgur.com/PyYmcey)
+https://imgur.com/6Tf84VN
+https://imgur.com/1h2z6tJ
+https://imgur.com/1h2z6tJ
+https://imgur.com/PyYmcey
