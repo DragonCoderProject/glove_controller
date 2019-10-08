@@ -34,6 +34,8 @@ All used hardware
 Software
 ========
 
+https://github.com/DragonCoderProject/glove_controller/tree/master/arduino_code
+
 Future
 ======
 
