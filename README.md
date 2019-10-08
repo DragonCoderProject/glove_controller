@@ -48,10 +48,10 @@ and care abouth better communication and data.
 photos
 ======
 
-https://imgur.com/undefined
+![1] (https://imgur.com/6Tf84VN)
 
-https://imgur.com/undefined
+![2] (https://imgur.com/1h2z6tJ)
 
-https://imgur.com/undefined
+![3] (https://imgur.com/1h2z6tJ)
 
-https://imgur.com/undefined
+![4] (https://imgur.com/PyYmcey)
