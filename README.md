@@ -57,3 +57,15 @@ https://imgur.com/1h2z6tJ
 https://imgur.com/1h2z6tJ
 
 https://imgur.com/PyYmcey
+
+https://imgur.com/oVfUsKd
+
+https://imgur.com/bVxapdm
+
+https://imgur.com/eoLpJ0I
+
+https://imgur.com/5vVXpvZ
+
+https://imgur.com/9gQH9hK
+
+https://youtu.be/RxBJvtdWyOM
